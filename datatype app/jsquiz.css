@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+    background-color: color-mix(in hsl shorter hue, green 50%, blue 50%);
+    margin-top: 10%;
+    color: black;
+}
+
