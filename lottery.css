@@ -1,0 +1,19 @@
+body{
+
+    overflow-x: hidden;    
+    text-align: center;
+    margin-top: 1%;
+    color: darkolivegreen;
+    font-weight: bold;
+}
+
+.background{
+    width: 100%;
+    min-height: 100%;
+}
+.btn{
+    padding: 10px 30px 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+}
